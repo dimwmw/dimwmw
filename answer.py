@@ -90,9 +90,9 @@
         "choice_4": 7
     },
     "2024-09-29": {
-        "choice_1": 3,
-        "choice_2": 5,
-        "choice_3": 1,
-        "choice_4": 7
+        "choice_1": 4,
+        "choice_2": 7,
+        "choice_3": 9,
+        "choice_4": 3
     }
 }
