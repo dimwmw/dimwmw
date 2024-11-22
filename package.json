@@ -1,0 +1,11 @@
+[package]
+name = "read_write"
+version = "0.0.0"
+
+[dependencies]
+InitiaStdlib = { git = "https://github.com/initia-labs/move-natives", subdir = "initia_stdlib", rev = "main" }
+managed_coin = { git = "https://github.com/initia-labs/initia-tutorials", subdir = "move/managed_coin", rev = "main" }
+
+[addresses]
+std = "0x1"
+other_addr = "0xcafe"
